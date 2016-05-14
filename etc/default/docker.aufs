@@ -1,0 +1,2 @@
+# Custom Docker Config
+DOCKER_OPTS="--storage-driver=aufs"
