@@ -1,0 +1,11 @@
+[Unit]
+Description=pdnsd-test
+After=network.target iptables.service firewalld.service
+
+[Service]
+ExecStart=/bin/pdnsd-test-start
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
