@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "nohup dnscrypt-start &>/dev/null &"
-sudo nohup dnscrypt-start &>/dev/null &
