@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb", SYSFS{idVendor}=="18d1", SYSFS{idProduct}=="d001", ACTION=="add", GROUP="xenial", MODE="0666"
