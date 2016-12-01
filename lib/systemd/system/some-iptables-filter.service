@@ -1,0 +1,9 @@
+[Unit]
+Description=some-iptables-filter
+After=network.target iptables.service firewalld.service
+
+[Service]
+ExecStart=/bin/some-iptables-filter
+
+[Install]
+WantedBy=multi-user.target

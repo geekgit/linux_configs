@@ -1,0 +1,6 @@
+#!/bin/bash
+iptables -t filter -N somefilter
+iptables -t filter -A somefilter -p udp --sport 53 -m string --hex-string "|00000000|" --algo bm --from 50 --to 150 -j LOG --log-prefix "[iptables-log] DNS somefilter: "
+iptables -t filter -A somefilter -p udp --sport 53 -m string --hex-string "|00000000|" --algo bm --from 50 --to 150 -j DROP
+iptables -t filter -I FORWARD -j somefilter
+iptables -t filter -I INPUT -j somefilter
