@@ -1,0 +1,9 @@
+osd-level=1
+osd-status-msg=${playback-time/full} / ${duration} (${percent-pos}%)\nframe: ${estimated-frame-number} / ${estimated-frame-count}
+
+screenshot-directory=~/mpv_screenshots_dev/
+screenshot-format=png
+screenshot-png-compression=0
+ontop=yes
+slang=eng,rus,jpn
+alang=jpn,eng,rus

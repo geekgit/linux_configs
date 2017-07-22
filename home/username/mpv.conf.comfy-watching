@@ -1,0 +1,6 @@
+screenshot-directory=~/mpv_screenshots_comfy/
+screenshot-format=png
+screenshot-png-compression=0
+ontop=yes
+slang=eng,rus,jpn
+alang=jpn,eng,rus
