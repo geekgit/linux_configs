@@ -1,1 +1,1 @@
-SUBSYSTEM=="usb", SYSFS{idVendor}=="0fce", SYSFS{idProduct}=="adde", ACTION=="add", GROUP="xenial", MODE="0666"
+SUBSYSTEM=="usb", SYSFS{idVendor}=="0fce", SYSFS{idProduct}=="adde", ACTION=="add", GROUP="bionic", MODE="0666"
