@@ -1,0 +1,14 @@
+screenshot-directory=~/mpv_screenshots_nvdec-opengl/
+screenshot-format=png
+screenshot-png-compression=0
+ontop=yes
+slang=eng,rus,jpn
+alang=jpn,eng,rus
+
+profile=gpu-hq
+hwdec=nvdec-copy 
+hwdec-codecs=all
+vo=vdpau
+gpu-api=opengl
+vd-lavc-dr=yes
+fbo-format=auto
