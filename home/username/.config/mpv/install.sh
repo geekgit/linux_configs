@@ -1,4 +1,6 @@
 #!/bin/bash
+mkdir -p "/home/${USERNAME}/.config/mpv/"
+cd "/home/${USERNAME}/.config/mpv/"
 MpvArg="$1"
 # MpvArg = comfy-watching || dev-stat || force43 || <empty>
 if [[ -z "$MpvArg" ]]
