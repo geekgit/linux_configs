@@ -1,4 +1,4 @@
-screenshot-directory=~/mpv_screenshots_nvdec/
+screenshot-directory=~/mpv_screenshots_nvdec-vulkan/
 screenshot-format=png
 screenshot-png-compression=0
 ontop=yes
