@@ -1,6 +1,6 @@
 #!/bin/bash
 MpvArg="$1"
-# MpvArg = comfy-watching || ... || <empty>
+# MpvArg = comfy-watching || dev-stat || force43 || <empty>
 if [[ -z "$MpvArg" ]]
 then
 	MpvTag=""
