@@ -1,0 +1,10 @@
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic-updates main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic-updates universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic-updates multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic-backports main restricted universe multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic-security main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic-security universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ bionic-security multiverse
