@@ -1,0 +1,10 @@
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial-updates main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial-updates universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial-updates multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial-backports main restricted universe multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial-security main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial-security universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ xenial-security multiverse
