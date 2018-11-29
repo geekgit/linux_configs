@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb", SYSFS{idVendor}=="0b05", SYSFS{idProduct}=="7770", ACTION=="add", GROUP="bionic", MODE="0666"
