@@ -1,0 +1,1 @@
+SUBSYSTEM=="block", ACTION=="add|change", ENV{UDISKS_IGNORE}="1"
