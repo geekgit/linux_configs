@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=FFplay media player
+Comment=View media files
+Exec=ffplay %U
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=ffplay
+Categories=AudioVideo;Audio;Video;Player;TV;
