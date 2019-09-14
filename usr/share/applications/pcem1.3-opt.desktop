@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.3
+Name=PCem 1.3
+Comment=PC emulator
+Exec=/opt/pcem1.3-opt/bin/pcem
+Type=Application
+Categories=Game;Emulator;
