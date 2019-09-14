@@ -1,0 +1,10 @@
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000 main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000-updates main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000 universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000-updates universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000 multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000-updates multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000-backports main restricted universe multiverse
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000-security main restricted
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000-security universe
+deb https://mirror.transip.net/ubuntu/ubuntu/ 000template000-security multiverse
