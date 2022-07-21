@@ -1,8 +1,8 @@
 #!/bin/bash
 replace() {
 	Rule="$1"
-	Sed1="s/bionic/\${USER}/g"
-	Sed2="s/focal/\${USER}/g"
+	Sed1="s/bionic/${USER}/g"
+	Sed2="s/focal/${USER}/g"
 	sed -i "${Sed1}" "${Rule}"
 	sed -i "${Sed2}" "${Rule}"	
 }
