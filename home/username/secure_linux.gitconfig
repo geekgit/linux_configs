@@ -7,5 +7,5 @@
 	name = anonymous
 	email = anonymous@email.local
 [core]
-	hooksPath = c:\\nul
+	hooksPath = /dev/null
 	symlinks = false
