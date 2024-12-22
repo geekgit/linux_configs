@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb", SYSFS{idVendor}=="18d1", SYSFS{idProduct}=="d00d", ACTION=="add", GROUP="geek", MODE="0666"
